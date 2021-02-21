@@ -1,0 +1,1 @@
+# In this project I will be analyzing app data from both Google Play store and Apple store. The goal is to decide on which app will be profitable for my company and worth building. This is my first project using github command lines. 
